@@ -89,25 +89,25 @@
 
             <text text-anchor="middle" dominant-baseline="middle" x="66.5" y="95" class="title_no" style="fill:#ffffff;">2</text>
 
-            <text text-anchor="start" x="160" y="55" class="title_id" style="fill:#ffffff;">gmldnd28@gmail.com</text>
+            <text text-anchor="start" x="160" y="55" class="title_id" style="fill:#ffffff;">chw0912</text>
         </g>
 
         <g class="group">
             <text text-anchor="start" x="160" y="95" class="sub_title" style="fill:#ffffff;">Score</text>
 
-            <text text-anchor="start" x="250" y="95" class="value" style="fill:#ffffff;">1,620</text>
+            <text text-anchor="start" x="250" y="95" class="value" style="fill:#ffffff;">1,622</text>
         </g>
 
         <g class="group">
             <text text-anchor="start" x="160" y="115" class="sub_title" style="fill:#ffffff;">Solved</text>
 
-            <text text-anchor="start" x="250" y="115" class="value" style="fill:#ffffff;">247</text>
+            <text text-anchor="start" x="250" y="115" class="value" style="fill:#ffffff;">249</text>
         </g>
 
         <g class="group">
             <text text-anchor="start" x="160" y="135" class="sub_title" style="fill:#ffffff;">Rank</text>
 
-            <text text-anchor="start" x="250" y="135" class="value" style="fill:#ffffff;">6,788</text>
+            <text text-anchor="start" x="250" y="135" class="value" style="fill:#ffffff;">6,632</text>
         </g>
 
         </svg>
